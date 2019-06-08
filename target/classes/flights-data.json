@@ -1,0 +1,44 @@
+{
+  "flights": [
+    {
+      "flight": "Air Canada 8099",
+      "departure": "7:30AM"
+    },
+    {
+      "flight": "Air Canada 6099",
+      "departure": "7:30AM"
+    },
+    {
+      "flight": "Air Canada 2099",
+      "departure": "7:30AM"
+    },
+    {
+      "flight": "United Airline 6155",
+      "departure": "10:30AM"
+    },
+    {
+      "flight": "West Jet 6456",
+      "departure": "11:30PM"
+    },
+    {
+      "flight": "Delta 3833",
+      "departure": "3:00PM"
+    },
+    {
+      "flight": "Hu 1233",
+      "departure": "12:00PM"
+    },
+    {
+      "flight": "Hu 3843",
+      "departure": "12:30PM"
+    },
+    {
+      "flight": "Hu 3232",
+      "departure": "0:00AM"
+    },
+    {
+      "flight": "Hu 7888",
+      "departure": "0:32AM"
+    }
+  ]
+}
